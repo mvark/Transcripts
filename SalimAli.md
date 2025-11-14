@@ -437,14 +437,15 @@ A: When Morarji Desai was Prime Minister, I saw him and told him about our work.
 He posed a scenario: if a villager's cow—his sole worldly possession that feeds his children on milk—is killed by a tiger, how do you convince him that there's a point in preserving the tiger? He said unless such people are convinced and on your side, you will never be able to save wildlife. This was a very wise thing to say.
 
 His point was that we talk in cities to people who already know the problem, but we haven't really tried to explain to ordinary people. To explain to them is really very difficult because they won't be prepared to listen to me. It's only somebody whom they respect in their own village, who talks their language and in the idioms they're used to—somebody whose advice they're prepared to follow. This is really the work of panchayat people and those in legislative councils in their constituency, but they're so busy with political wranglings that this gets passed by. 
-It's most unfortunate because the truth is that conservation and social reform are two
+
+_It's most unfortunate because the truth is that conservation and social reform are two
 sides of the same coin particularly in a country like ours in india. It's evident to anybody who wishes to
-see that our people are as directly dependent on the land as the animals and birds are. 
+see that our people are as directly dependent on the land as the animals and birds are._ 
 
 *So this perhaps is one of the major contributions you've made because I think following your example there have been a host of a tribe of people who've gone out to understood the concepts and
 somewhat like a multiplier effect have communicated their understanding to others*
 
-Yes, thank you
+Yes
 
 ---
 
