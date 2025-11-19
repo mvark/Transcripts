@@ -260,192 +260,509 @@ So people who have studied it carefully—they can even from the voice, by those
 
 **Interviewer:** Remarkable! This is how science and technology can be used for the enhancement of knowledge, particularly in the sphere of conservation and field observations. The songs of birds—usually it's the males who sing, and the songs are meant to attract the females at the nesting time. But more than that, they are a sort of advertisement to the female because usually these migrants—when they go back, it is usually the males that go first. They go first and they occupy a territory. From that territory they keep out other males—
 
-# Interview with Dr. Salim Ali
+## Bird Songs and Calls
 
-## Bird Songs and Communication
+**Q: Could you explain the function of bird songs? Why do birds sing?**
 
-**Q: What is the function of bird songs?**
+It's the males who usually sing, and the songs are meant to attract females at nesting time. But more than that, they are a sort of advertisement. Usually these migrants, when they go back, it is the males that go first. They occupy a territory and keep out other males. They fight with them, drive them away, and make threatening postures. The intruder usually leaves, sometimes there's a fight. 
 
-A: The songs of birds are usually sung by males. They are meant to attract females at nesting time, but they serve more than that purpose. When males return from migration, they usually arrive first, occupy a territory, and keep out other males by fighting and making threatening postures. The song is not only an attraction for the female but also a warning to other males, telling them that this place is occupied. It's also an advertisement to a female looking for a nesting site—informing her that here is a desirable young man who is ready to receive her and has a house and territory.
+The song is not only an attraction for the female but also a warning to other males to tell them that this place is occupied, keep away from here. Usually the other bird sees the male singing and keeps off. It's also an advertisement to a female who is looking for a nesting site, to inform her that here is a desirable young man who is ready to receive her, and he's got a house and a territory. The female is welcome. This is one of the functions of the song.
 
 **Q: What is the difference between bird songs and bird calls?**
 
-A: Calls are usually just contact calls. For instance, when birds are flying at night, they emit a certain call to keep them together so they don't stray. They also have danger signals, which are usually understood not only by the same species but by many other species as well. When birds see an owl or something similar, the bird that sees it makes a warning call and all the other birds gather around. It's like a predator alarm system.
+The calls are just contact calls. For instance, when birds are flying at night, they emit a certain call to keep together so they don't stray. If a flock is flying, they keep on making little calls. They have danger signals which are usually understood not only by the same species but by many other species. Once they see an owl or something, the bird that sees it makes a sort of warning call and all the other birds gather around to mob it.
 
-## Conservation and Agriculture
+**Q: Like a predator alarm system?**
 
-**Q: How do birds impact agriculture and forestry?**
+Exactly.
 
-A: Birds have a very strong impact on agriculture and forestry, particularly the insect-eating birds and birds like owls which eat rats and mice—great pests of agriculture. Some birds are seen to eat grain in the field and are considered destructive to crops. The baya weaver eats a lot of grain and does damage to crops. But when the young are in the nest, they have to be fed entirely on soft-bodied insects. So the bird is harmful half its life and beneficial half its life. Unless you study the whole life history, you wouldn't know this. You would only see the bird doing damage and think you should get rid of it.
+## Birds and Agriculture
 
-**Q: Can you give an example of what happens when birds are eliminated?**
+**Q: There has been considerable opposition to conservation efforts to save certain species of birds which people believe are harmful to man in terms of competition for food supply. Would you like to comment on this?**
 
-A: This happened in China with sparrows. But this is not a new lesson—in France in the last century, they destroyed all the birds and then found that crops were suffering so much that they had to introduce them again.
+I think it's a great pity that more work hasn't been done in India because birds have a very strong impact on agriculture and forestry, particularly the insect-eating birds and birds like owls which eat rats and mice, which are great pests of agriculture. 
+
+Some birds are considered destructive to crops because they are seen eating grain in the field. Take the baya weaver, for example. It eats a lot of grain and certainly does damage to crops. But at the same time, when the young are in the nest, they have to be fed, and the parents catch insects in the very fields where they do the damage directly. The young in the nest are fed entirely on soft-bodied insects. So half its life it is harmful and half its life it's beneficial. Unless you study the whole life history, you wouldn't know because you would only see the bird doing damage to the fields.
+
+**Q: As I recall, this is what happened in China with the sparrows?**
+
+Exactly. I am surprised that in China they had to try this thing again to learn the lesson because in France, in the last century, they had a very similar thing where they destroyed all the birds, and then they found that the crops were suffering so much that they had to introduce them again. Not sparrows, but other birds which are destructive to crops, mostly of the finch family, the starlings and others.
 
 ## Mating Systems in Birds
 
-**Q: Can you explain the different mating systems in birds?**
+**Q: Some time back you referred to the polygamous nature of the baya. Could you generalize about birds as a species?**
 
-A: There is a vast range of mating systems. The crane is very much revered because it is supposed to be monogamous. The couple is supposed to be so devoted that if one dies, the other supposedly finds a way. But this belief is a bit extreme. If the mate is killed, the bird is lonely for a time but then it soon gets used to it and acquires another mate.
+There is a vast range of mating systems. You must have heard about the sarus crane, which is very much revered because it is supposed to be monogamous. I don't know why they are so particular about the virtues of monogamy. The couple is supposed to be so devoted that if one dies the other just pines away and dies. I think that belief is a bit extreme. It does feel lonely for a time if the mate is killed, but then it soon gets used to it and acquires another mate. Crows are also of the same type, monogamous and supposed to be very faithful.
 
-The baya weaver practices successive polygyny—where each male has several females in succession. Then there's the opposite: the painted snipe and the bustard quail, where the male has to do all the work. The female goes about looking for males, gets them to incubate eggs and bring up chicks, while she goes around looking for another male.
+Then there's the type of polygamy practiced by the baya, where each male has several females in succession. That's called successive polygyny—more females and one male. 
 
-Another system is the lek system, like the ruffian reeve. Males collect on an open ground and have mock fights. Females come in turns and have different colors—some are white, some purplish, some variegated. The female exercises her choice, mates with a male, and then goes away. The male has nothing more to do with her. Then the next female comes.
+Then there is the opposite. For instance, the painted snipe and the bustard quail, in which the male has to do all the work. The female goes about looking for males, and when she finds a gullible one, she gets him and makes him do all the incubation of eggs and bringing up of the chicks. In the meantime, she goes around looking for another male, mates with him, and puts him on to a nest for incubation. We don't exactly know how many males she captures in one breeding season, but this is the pattern.
 
-There's also a resource-based polygamy, found in honey guides. One male takes possession of a number of combs, making them his territory. When females come ready to breed, he mates with them and allows them to eat wax from his territory. This is a system of reward and incentive.
+Then there is another system known as the lek system. A lek is an open ground where the males collect and have mock fights, like the ruff and reeve which comes to India in enormous numbers but doesn't breed here. It breeds in the polar areas. There the males collect and have mock fights on an arena. The females come in turns. The males are in a variety of colors—some are white, some are purplish, and some are variegated colors. The female is supposed to exercise her choice, and then that male mates with her. She goes away, lays her eggs somewhere, and brings up a family. The male doesn't have anything more to do with her, and then the next female comes, and so on.
 
-## Intelligence vs. Instinct in Birds
+**Q: What about the honey guides?**
 
-**Q: How do you distinguish between intelligence and instinct in birds?**
+One of the systems that has been lately found exists among birds known as honey guides, which are really an African genus, but they have one representative in the Himalayas which lives about six or seven thousand feet up. It is always found near the nest of the rock bee on cliffs. 
 
-A: Most of the actions and behavior of birds have instinct as the basis—inherited instinct. For instance, migration is purely an inherited instinct. If you take eggs from a weaver bird nest, hatch them in an incubator, and rear the young by hand, when nesting time comes and you give them proper material, they will build exactly the same complicated woven nest as their parents did—even though they've never seen their parents or nests. This is the basis for most of their behavior.
+This bird lives on the wax of the honeycombs that have been already deserted. It eats the wax as its chief food. That is a very special bird because wax is a very difficult thing to digest, and this bird has some special enzymes which enable it to digest it. 
 
-However, there are cases you cannot account for with instinct alone. I once saw a crow that had caught a rat. The rat was squealing, so the crow sat in the middle of a stream and dipped the rat in the water and kept it there for some time. When he took it out, the rat was still squeaking, so he put it back again. The crow wasn't doing this every day or from learned experience. In this case, I would say it was certainly intelligence—what is known as reasoning. The crow worked out that if he did this, something would happen.
+One male takes possession of a number of combs and makes that his territory. If other males come, he drives them away. But when females come, he welcomes them, and if they are ready to breed, he mates with them and allows them to eat the wax from his territory. This is a system of reward and incentive, called resource-based polygamy. The resource, the food resource, he shares with her and mates with her that way. If he takes possession of a cliff where the combs are, no other male gets a chance of mating with any females. You have to be a particularly strong male to have in your possession a territory where the females come.
 
-## Conservation and Human Priorities
+**Q: This amounts to survival of the fittest?**
 
-**Q: How do we communicate the necessity to save birds and animals to the common person?**
+Right, each mate takes a different mode.
 
-A: People have a misconceived notion that conservationists are trying to save animals and birds while ignoring human strife. We need to communicate that saving animals and birds is corollary to saving human beings. Human beings are not in a position to look after their own land. Birds, animals, and other microflora are necessary to the well-being of the land.
+## Courtship Displays
 
-If there is more literacy and proper use of radio and television, it would help. In India, where we have so many different languages, these are the only ways of getting at people and telling them what we are doing. It's a pity that not more attention is being paid to this.
+**Q: In the case of a bird like the peacock, the display is very obvious to anybody. But there are more drab species of birds, and yet display seems to be a fairly important part of their courtship ritual. What are the parameters of courtship other than bird song or resource-based polygamy?**
 
-**Q: Is it ever justified to protect birds at the cost of humans?**
+I think it's a very extraordinary thing that even fairly intelligent people are prepared to believe that the mating in the peacock is not in the ordinary way, but that the peacock sort of spits out something which the female swallows and that is how it produces eggs. It's really quite extraordinary how gullible people are. Why should the peacock be so different from every other bird? But they are prepared to believe that, as they are prepared to believe so many things in the case of snakes. There are superstitions and myths and legends built around Indian cultures.
 
-A: This is a completely mistaken idea. When lives were lost at Bharatpur in 1983, it had nothing to do with the birds. It was because of vested interests and political interests who wanted to work up agitation. Trouble like that need not happen because of birds—it could happen anywhere. I don't know why birds have been blamed for human lives lost.
+Take owls, for instance. There seems to be an unreasoning fear in the minds of people about owls. The Society gets at least three or four letters every year from people asking whether the peacock also mates in the same way as other birds.
 
-## Status of Ornithology in India
+## Intelligence vs. Instinct
 
-**Q: Is Indian ornithology lagging behind international standards?**
+**Q: What would you determine as intelligence as far as birds are concerned, and where would you draw the distinction between intelligence and instinct?**
 
-A: We are far behind. We are just waking up really. There has been no importance attached to ornithology. We have tried to persuade the government to take up at least economic ornithology, which has direct bearing on human life, but it has been very difficult. I have been trying since 1935 and nothing seems to have happened.
+That is very difficult indeed. Most of the actions and behavior of birds has instinct as a basis—inherited instinct. For instance, migration is purely an inherited instinct. 
 
-One chief reason was that there were no jobs to be had in ornithology. If we had established ornithology projects earlier, we could have produced scientists and caught up with what is being done outside. But we got no encouragement.
+Take a weaver bird. If you take the eggs from the nest, hatch them in an incubator, and rear the young ones by hand, when the time for nesting comes, if you give them the proper material—the straw or the strips of grass or whatever it is—they will begin to build and they will build exactly the same kind of complicated woven nest as their parents did. These birds have not seen their parents, they have not seen their nests. How do they build? Unbelievable. This is the basis for most of their behavior.
 
-Most of our ornithological work has been done by amateurs and amateur institutes like the Bombay Natural History Society. The amount of work that has been done is creditable, considering the discouragements and difficulties we've faced.
+But there are some cases which one really cannot account for by instinct alone. I'll tell you one experience I had of a crow. A crow had caught a rat and had it in his bill. The rat was squealing all the time. The crow went and sat in the middle of a small stream and dipped the rat inside the water and kept it there for some time. Then he took it out and the rat was still squeaking, so he put it back again. 
 
-**Q: What role can amateurs continue to play in conservation?**
+I unfortunately didn't see the end of it, but it was obviously because he was trying to kill it or to stop the squeaking. Now how did the crow know that by doing this... it's not a thing that he does every day or that he could have learned by experience. In this case, I would say that it is certainly intelligence. It is what is known as reasoning—if I do this, this will happen. In some birds you can see this happening quite obviously. You wonder where instinct ends and where intelligence begins. There are certain actions which are certainly difficult to assign to instinct alone.
 
-A: Amateurs can do quite a lot, but they must have real interest and dedication. Nowadays research has reached such a high standard that an amateur who only has a diligent interest in spare time cannot make useful contributions. It wants dedication and perseverance. If an amateur can devote that dedication, they can do far better work because they're not compelled to do it to earn their living.
+## Conservation and Human Needs
 
-## Endangered Species
+**Q: Conservation has gripped the minds of many people in India, though perhaps later than the rest of the world. Considering the Indian context where hunger and strife is rampant, what purpose can there be in studying birds, and what difference could it possibly make to a Haryana farmer whether the Siberian crane lived or died?**
 
-**Q: What hope do you hold out for endangered birds like the Siberian crane?**
+We want to preserve birds for the benefit of human beings to prevent hunger and want. It is only because it is not sufficiently realized how important birds are for prosperity in agriculture and all the other industries, directly or indirectly. That is why bird study is considered of such low priority. In countries where research in economic ornithology has been done, it has been found that they are of the greatest help in agriculture and other industries.
 
-A: We are doing everything possible. If every country through which these birds migrate would take that much trouble, there's every hope the bird can be saved. The trouble is that during migration, these birds have to go through countries like Afghanistan where people are not at all aware of conservation. They only look at the birds as so many kilograms of meat.
+**Q: How should we be able to communicate the necessity to save animals and birds? How do we communicate that saving animals and birds is in fact corollary to saving human beings, that human beings are not in a position to look after their own land, that the birds and the animals and the other microflora are necessary to the well-being of the land?**
 
-**Q: What about the black-necked crane and the great Indian bustard?**
+I think that if there is more literacy or more proper use made of radio and TV... In India where we have so many different languages, the only ways of getting at people and telling them something about what we are doing is through these means. It's a pity that not more attention is being paid to that, although we have been talking about it for quite a long time.
 
-A: These are also severely endangered. The Bombay Natural History Society has an endangered species project doing excellent work studying the great Indian bustard. We find they can easily be preserved with a little care. Of course, protection is needed—human beings are the worst predators you can imagine. They stand in more danger from humans than from any other source.
+Birds not only destroy large numbers of insects—in fact, some birds live entirely on insects—and most of these insects are harmful to man's interests as they destroy agriculture fields and grain. Very often the same birds that do the destroying are also helping by destroying the insects which are pests on the same crops. In most cases they are beneficial. In the doubtful cases, they are not really as harmful as they are supposed to be.
 
-For the black-necked crane, there is no population pressure on its habitat, but the trouble is that shepherds and people go to the areas where the birds breed because that is where the grazing is best. Shepherd boys find eggs and pick them.
+Most people only see birds destroying crops, but they don't know what other beneficial activities they do. There are some birds which as adults are feeders on grain and crops, but as young they are fed entirely on soft-bodied insects by the parents. They balance things. You can't say that because you see a bird destroying crops that it is a completely harmful bird and should be done away with.
 
-Fortunately, in Ladakh and similar places, army personnel have been given direct instructions to protect these nests and have taken a very enlightened stand. The army are the only people who can police these areas effectively.
+## Extinction and Endangered Species
 
-## Ornithological Research Gaps
+**Q: As far as extinction and endangered species are concerned, sometimes lakhs of rupees are spent on a bird and people ask why save birds when people are starving. What is your view on this matter?**
 
-**Q: What areas of ornithological work have not been covered in India?**
+All the species that even seem to us to be serving no useful purpose have a purpose in nature in maintaining the balance. A habitat and an ecosystem is made up of so many different factors—plants, birds, animals. There's a regular chain, and if one link of the chain disappears, then the chain itself gets broken and the whole order gets upset. That is one of the main reasons why we are so keen about preserving animals that are on the point of extinction.
 
-A: As far as the inventory of birds goes, I think we have done it completely. It's very unlikely that a new bird species will be found. Apart from that, we have done nothing at all. We know nothing about the life histories of these birds.
+Extinction can be natural because species keep on changing, one species replaces another. But where human beings have interfered, the change has been much faster. That is where we can slow it down by proper management and protection.
 
-Museum work—classifying and so on—has been done not only in India but all over the world. But we have opportunities for studying life histories for which we don't find enough people.
+**Q: Sometimes conflicts occur. In 1983 at Bharatpur, when the sanctuary was converted into a national park, grazing of cattle was stopped. Some lives were lost in police firing. Can the existence or protection of birds at the cost of humans ever be justified?**
 
-The eastern ghats is one area much nearer home about which we know nothing. It's just like the western ghats but in many ways much more untouched by human activity. It's a wonderful place for research and study.
+I think this is a completely mistaken idea. The loss of lives had nothing to do with the birds. It was because of some vested interests and political interests who wanted to work up an agitation. This sort of rioting, this sort of trouble, need not have been at Bharatpur or have anything to do with birds. It can happen in Bombay and firing would be necessary. I don't know why it has been linked with birds and why the birds have been brought in and blamed because of those human lives lost.
 
-## The Bird Hazard Project
+## State of Indian Ornithology
 
-**Q: What is the bird hazard project?**
+**Q: It has been said that Indian ornithology has yet to come of age, that our field research lags far behind internationally accepted standards. Do you agree, and what needs to be done to remedy this situation?**
 
-A: The Bombay Natural History Society is engaged in quite an ambitious project dealing with bird strikes on aircraft. The idea is to discover ways and means to reduce the incidence of bird strikes. It's of tremendous economic importance to the air force and civil aviation authorities.
+We are far behind. We are just waking up really. There has been no importance attached to ornithology. We have been trying very hard to persuade the government to take up at least economic ornithology, which has a direct bearing on human life. Even that has been very difficult. I have been trying since 1935 and nothing seems to have happened.
 
-We have been able to do very good work determining which birds are involved and why they gather around airports. Most of the offenders in northern India particularly are vultures. To keep vultures off, we need to keep the precincts of the airport clean by having modern abattoirs where no refuse is thrown out. This will prevent birds from haunting those areas.
+We have had no scientists working in ornithology. One of the chief reasons was that there were no jobs to be had. If we had at that time established projects, we could have produced scientists and tried to catch up with what is being done outside. But we got no encouragement, so we are certainly backward.
 
-However, it takes such a long time to implement recommendations. Municipalities are responsible but always have no money for making changes. Unless these recommendations are implemented, we cannot say whether they will be successful.
+Most of our ornithological work has been done by amateurs in the past, whereas in the rest of the world today you've got professionals doing this as a full-time career. For the amount of work that has been done by amateurs and amateur institutes and societies like the Bombay Natural History Society, I think we should be really very proud. If people knew the discouragements and difficulties we've had to make so much progress, I think they would think otherwise.
 
-## Influences and Mentors
+It's only since a few years ago—I had the greatest difficulty in getting a proper ornithological education. I had to go to Germany because there was no university in India that could impart that education. Because of my difficulties, I persuaded the University of Bombay to recognize ornithology as a field. This is about 10 or 12 years ago or so. In that time we have some really very brilliant young people who are coming up. Now that the Bombay Natural History Society has got some projects, we can use our own trained men, and we find that they're doing excellent work.
 
-**Q: Who were the key influences on your development as an ornithologist?**
+## Role of Amateurs
 
-A: My great advantage was beginning at the Bombay Natural History Society with Mr. Millard, who was the honorary secretary. When I was about eight or nine years old, I took a sparrow to him for identification. He was so taken aback at an Indian boy being so interested in birds that he took special trouble. He suggested I make a small collection and brought me books.
+**Q: What role do you see amateurs continuing to play in conservation? Are there sufficient openings for professionals?**
 
-Later, I was closely connected with my friend Prater, who was assistant curator. We did a lot of birding around Bombay.
+Amateurs can do quite a lot, but they must have a real interest and dedication. Nowadays research has reached such a high standard that an amateur who tries to take some interest in his spare time—those days are gone where you could really make a useful contribution. It wants dedication and perseverance. If amateurs can devote all that, I'm sure they can do far better work because they don't feel that they are being compelled to do this to earn their living. They do it just for fun. No amateur would take it up unless he was really interested.
 
-My real scientific ornithology started when I went to Germany for a special course in systematic ornithology under Professor Ernst Stresemann, who was absolutely the giant of the world of ornithology at the time. Through him, I learned about ecology—how birds live, the habitats, and what different factors in the habitat attract certain species. This became my own interest in bird study.
+**Q: If we wish to attract more professionals to the field of ornithology, how are we to support these people? Who is to pay their wages? The Bombay Natural History Society has not got enough funds.**
 
-**Q: Who else influenced your work?**
+It has to be done very slowly till the public realizes the value of ornithology sufficiently to come out with help. This can't be done overnight because even now they do not realize that ornithology is really of importance. They think it's just somebody trying to kill time, who has nothing else to do, who goes around with binoculars around his neck looking at birds.
 
-A: Oscar Heinroth was the father of ethology—bird behavior and ecology. He and his wife collected eggs of all birds found in Europe, hatched them artificially, and studied their life, behavior, food, and molts from hatchling to adult. They photographed the birds at every stage and produced four beautiful volumes that really form the basis of bird behavior study.
+**Q: The population pressures on almost every conceivable habitat in India seem to be at the root of many problems.**
 
-Hugh Whistler was a policeman in India who made very good studies of the birds of Punjab. I didn't go on expeditions with him, but when I got specimens, I kept the ecological and field notes, and he did the taxonomical work on the skins I sent him.
+That is the main trouble of all our backwardness, that we are not able to catch up with other people. As far as intellect and resourcefulness goes, we have all got that here. But this population is really at the bottom of all our troubles. I think the major effort now should be made because this is a matter of life and death for the nation. I have been saying this at every occasion—some kind of pressure has to be used. They might say that in a democracy you cannot do that, but this is not a matter of a personal thing. It's a matter of national life and death.
 
-**Q: What about S. Dillon Ripley?**
+## Hope for Endangered Species
 
-A: I came to know him during the war when he was just graduated from Yale. He was sent to Sri Lanka and would stop in Bombay. We discussed various things and our plans. We have worked together a lot, with our interest being to find out how bird life is changing with changing environment. We have repeated our visits to certain areas after so many years and compared conditions.
+**Q: What hope do you hold out for endangered birds like the Siberian crane? Bharatpur hosts less than 40 out of perhaps no more than 200 of the last remaining Siberian cranes.**
 
-His strong point is taxonomy and mine is not really interested in taxonomy. We divided up the work—he did the taxonomical part and I did the field and ecological part. This gave us a smooth-running combination. He got me a fellowship at Yale so we could coordinate our work together.
+I think we are doing everything possible. If every country through which these birds migrate were to take that much trouble, there's every hope that the bird can be saved without much trouble. But the trouble is that on migration it has to go through countries like Afghanistan where people are not at all aware. They only look at it as so many kilos of meat. They are not worried about whether it's a Siberian crane or any other crane. In saving our wildlife, we have to depend a great deal on other people who are not so careful or so much aware of this. Birds don't recognize international boundaries.
 
-**Q: Who were some other important associates?**
+**Q: What are the other species of birds under threat, besides the Siberian crane?**
 
-A: Humayun Abdulali was under my influence when he was a college student. He used to spend his holidays with me in camp in Travancore and Hyderabad. He admits that's where he picked up the tricks of the trade.
+The black-necked crane and the great Indian bustard. These are also severely threatened. The Natural History Society has an endangered species project which is doing excellent work. They have been studying the great Indian bustard very minutely, and we find that they can easily be preserved with a little bit of care. Of course, protection is needed. Unless there is protection from human beings—those are the worst predators that you can imagine—they stand in more danger from humans than in any other way. The environment, the habitat, has to be preserved too, but that can easily be done if we can save them from being killed for food.
 
-Dr. Biswamoy Biswas from the Zoological Survey of India did really good work more or less without much encouragement from above, but he's become one of our best systematic ornithologists.
+**Q: What about the black-necked crane? There is no population pressure on its habitat.**
 
-J.C. Hopwood was in the Imperial Forest Service in Davoi, Burma, where I was a nester. I was a greenhorn at the time just beginning my bird study career. Hopwood was a very keen bird student and he was collecting birds and eggs for Stewart Baker's Fauna of British India series. He was very cooperative and helpful to me at that time.
+The trouble is that there are shepherds and people going around the areas where the birds breed because that is the area where the grazing is best. These shepherd boys find eggs and they pick them up. It's not easily patrolled.
 
-Colonel Meinertzhagen and I had adventures in Afghanistan during bird migration. He had made a special study of the effect of light on desert coloration of animals. We both had the same interest in how the coloration of birds resembles the soil color on which they live.
+As I understand, in Leh and Ladakh, the army personnel have been given direct instructions now to protect these nests, and they seem to have taken a very enlightened stand. The army are the only people who can police these areas because there's nobody else except the herdsmen themselves. If the army can really take it up seriously, that is our only hope. There are good signs of the army getting interested now.
 
-**Q: What about Peter Scott?**
+I know what a dreary place Ladakh is where these jawans and people have to stay for months together in all kinds of weather, nothing to do and no kind of intercourse with other people. If they could create an interest in wildlife, apart from shooting it, which most of them have done in the past... Now I understand direct orders have been issued by their commanders not to shoot. There's a new breed of officers and people coming up who are interested in conservation.
 
-A: I have been very friendly with Peter Scott since 1950 when we've been at various ornithological congresses together. He's an expert on waterfowl. When he came to Bharatpur, he took so much interest and gave many suggestions for improvement. His saying that he has not seen as good a waterfowl sanctuary anywhere in the world means something because he has seen most of the important ones.
+**Q: Major General Gore had shown the BNHS some slides on Ladakh.**
 
-**Q: Who was Dr. David Lack?**
+They were very good. There are some excellent people among the army. Photography has replaced shooting in many cases.
 
-A: He was a great friend of mine and a very high-class ornithologist. He and his wife made a special study of the swift living in a tower in Oxford, 100 feet high. They would go up and down every day and sit there for hours watching it. He wrote a very good book called "Swifts in a Tower." When I visited Oxford, I asked to see these nests. He tried to dissuade me because of the height, but I was boastful and said I'm used to that kind of thing in India. It was a straight ladder with no railings, and when I looked down about 50 feet, my heart sank. But I had boasted so much that I had to get my teeth and do it.
+## Areas Needing Research
 
-Dr. Lack was the outside examiner for my first doctoral student, which gave me confidence that we were on the right lines.
+**Q: What would you say are the areas which have not so far been covered in ornithological work in India?**
+
+As far as the inventory of birds goes, I think we have done it completely. It's very unlikely that a new bird species will be found. But apart from that, we have done nothing at all. We know nothing about the life histories of these birds. 
+
+Nowadays all that museum work—classifying and so on—has been done not only in India but all over the world in all the museums. But we have these opportunities for studying the life histories, for which we don't find enough people. The trouble is that it's only specialized institutions like the Bombay Natural History Society which know the difficulties and can reliably identify the birds.
+
+In other countries, there are ornithologists spread all over the place who are very reliable and can be depended upon to give information. If you want to know if a certain bird occurs in Assam in a certain place, you just write to the man there and he will send you the information, and you can rely on that information. Here the trouble is that there are so few people who are competent to be dependable for identification. Sometimes the information is so impossible that you don't know what to make of it. Unless we send our own man to go and investigate, but we haven't got the facilities, the finance, to do all that.
+
+**Q: Which parts of the country would you say have a curtain around them, like Arunachal Pradesh?**
+
+Arunachal is one, but one much nearer home is the Eastern Ghats. There are large tracts of the Eastern Ghats about which we know nothing. That is one of the most interesting areas. Apart from being just like the Western Ghats, in many ways it is really much more untouched by human activity. It's a wonderful place for research and study.
+
+## Bird Hazard Project
+
+**Q: The Bombay Natural History Society is currently engaged in the bird hazard project for the defense services. Could these fields of activity finance and fund other areas of ornithology? It's of tremendous economic importance to the Air Force and civil aviation authorities.**
+
+Actually, the Natural History Society is now very much relied on by government departments, which was not the case till only fairly recently. They have been entrusted with many very important projects. One of them, as you said, was the bird hazard where birds run foul of planes and cause much damage and sometimes fatal accidents.
+
+We have a project trying to see what birds first of all are involved and why they gather around airports and how we can keep them off. This project has been going on, and as far as the birds are concerned, we have been able to do very good work as to their ways of life and how they are connected with airports. 
+
+But so far we haven't got any clue as to how they can be definitely kept off. We have made some suggestions. For instance, most of the offenders in northern India are vultures. To keep vultures off, you keep the precincts of the airport clean by having modern abattoirs where no refuse is thrown out. That will prevent the birds from haunting those areas.
+
+But it takes such a long time to implement all these things. Very often the municipalities are responsible for this and they always have no money for making these changes. Unless we can have these recommendations implemented, it is not possible. It's not fortune telling where you can say if you do this, then this will happen. This is an entirely new subject. Unless these recommendations are tried out, we cannot say whether they will be successful or not. This is our difficulty now. People are waking up. They have at least sanctioned these changes. The point is, will they implement the advice that organizations like the BNHS give at the end of their research studies?
+
+## Reaching Decision Makers
+
+**Q: Could you point out the kind of people that conservationists need to focus their attentions on to bring about changes that would benefit the overall ecology of our nation? At this point it seems everything begins and ends with the politicians.**
+
+That is one of the reasons why we had great hopes for the Department of Environment. Perhaps it's being unjust to them because they have only recently started, but those are the people who should bother about all this. They're the most competent people to decide in these matters. I hope that given a little more experience, they will come up to expectations.
+
+**Q: Would you look towards the corporate sector, businessmen? Internationally, large business houses have funded many major conservation projects.**
+
+I think government should be interested in deciding the policy, but a lot more should be done by business and industry.
+
+## Environmental Needs of Birds
+
+**Q: What are the environmental needs of birds like the black-necked crane? What kind of habitats do they need, and what can we do to strengthen their survival chances?**
+
+In places like Ladakh, in winter there's a lot of snow on the hills. When summer comes, the ice and snow melts and water comes down the hills. There are flat areas where bogs are formed because there's no drainage, so the water remains there and forms places which are very soft mud, something like quicksand. That is the type of country that the black-necked crane likes because it has a good deal of protection. It is like little islands in an archipelago, surrounded by water which very often has quicksands in it, fairly protected from predators. That is where the birds nest.
+
+They don't nest in a colony. They just have one pair here, another maybe 20 miles away. They don't flock at that time, not when they're breeding—only pairs. But when they are migrating in winter, then they form flocks. All those birds join together with the young birds.
+
+These birds usually lay two eggs or one egg. It has been found in other species that when there are two eggs laid, they don't hatch at the same time. One hatches about three or four days after the first. During that time, the elder hatchling has become so strong and vigorous that it takes all the food, and the other usually is starved to death. It pecks the competitor, the sibling, and usually it dies.
+
+Now the technique is, if there are two eggs, they take one egg and hatch it in an incubator and rear the chick by hand. So instead of having 50% success, they can have 100%. This augments the wild populations. This has been done with some other cranes.
+
+**Q: The International Crane Foundation is very keen to take the eggs?**
+
+With the black-necked crane, the bird is so rare that we don't think it is the right thing to allow them to, because it means taking the eggs back to America, which means so many changes by plane. The eggs apparently have to be taken from the nest after they have been incubated for two weeks or three weeks or whatever it is. How are we going to decide whether this egg is ready for taking? The places are far away, hundreds of miles away. All together, the difficulties seem to us insurmountable unless we have planes and helicopters of our own, which they have in America.
+
+**Q: Could this artificial incubation not be done in Ladakh itself?**
+
+That is exactly what we want them to do. We said we would give you all the facilities you want, but you must do the incubation and rearing of the chicks in Leh, which is the area in which the bird breeds. The climate is exactly what it wants in a state of nature, and everything is there. Also, we want our people to learn the techniques so that they can do it. We can't send a whole lot to America to learn. If they came and did it here, they would get all the facilities in Leh, and our people would learn, and then we would know what the result of such experiments are.
+
+**Q: The question of conserving crane species becomes particularly sensitive because the offspring seem to share what you might call a Cain and Abel syndrome, where they fight with each other.**
+
+Exactly. If this technique is successful with the black-necked crane, then I hope that we can improve the situation. You could save Cain and Abel. I hope that they will agree to do this. Negotiations are going on, but they seem to be dragging their feet. They want to take the eggs back there. It becomes something like a collector's item.
+
+## The Florican
+
+**Q: The other bird that seems to have suffered greatly is the florican.**
+
+I think that is due very largely to killing, and more so in those areas where the florican lives, which is being now given over to refugees and all kinds of settlements.
+
+**Q: What kind of habitats does the florican prefer?**
+
+Tall grass, grassy habitat, fairly moist. There are two kinds of floricans here. One lives in the Terai area, which is the Bengal florican, which is a larger bird. One is the lesser florican, which is found in central India, practically the whole of India at one season or another. But it breeds only in the rainy season when the grass comes up a bit.
+
+**Q: These grasslands are being converted to agriculture or grazing land?**
+
+Grazing land. There it is also endangered because of the cattle which may be trampling its eggs. Another unfortunate thing for the lesser florican is that when it is breeding, one of the courtship displays is that it jumps up from the grass just for a bit and then comes down again. From a long distance you can see the bird coming up and going down. That advertises its presence, and the shikaris go and wait there, and as soon as it comes up, they shoot it.
+
+**Q: It's very ironic that a spectacular display that evolved over millions of years as a means of procreation should actually lead to its death now.**
+
+Very unfortunate. But it's a very spectacular display. We are trying now—the Bombay Natural History Society has an endangered species project. One of the birds is the great Indian bustard, and then these two floricans that we have in India. The work is going to begin now with the rainy season. All these birds need serious study.
+
+## Professional Ornithologists
+
+**Q: You brought up the point of professional ornithologists earlier. How do you suggest that funds will be found in future to create sufficient individuals capable of making and assessing situations in the field?**
+
+For non-government organizations, the only thing is to build up a sufficiently big endowment fund on the interest of which these people can be kept. It's a great pity—as we are experiencing now—to train really first-class biologists in the two or three years of the project that we have, which is financed from outside. After the project is over, what do we do with them? We don't want to lose them, and they can't live without some kind of regular income. They have families to keep. 
+
+That is what we are trying to do now, to try and build up an endowment fund which will enable us to maintain these people that we have trained who are exceptionally good. Some of them are first-class, and we don't want to lose them. If we can't do that, they will have to go back to some other job where they can earn their living.
+
+**Q: There are so many avenues in which professionals exist in this country, and endowment funds are not created for them all. Perhaps this comes back to your point that ornithology and conservation—the role that professionals have to play—has not been recognized. Would you not agree that it would be more practical to have proper budgeted funds from within the government or from private sources?**
+
+I don't know what else can be done because it's not very easy to extract money from rich people, particularly for a thing like this which they don't really think is important enough. They don't realize the value of these things. This is the handicap under which we have been working all this time. The Natural History Society, for instance, could have done far more work if we had more financial support from these people.
+
+The sad part is that in a country like India, our people are so directly dependent upon the land, much like the birds and animals we are trying to protect. It's critically important that the land's health be maintained.
+
+**Q: Those who have should take a little more interest?**
+
+I think so.
+
+## Influences of Other Ornithologists
+
+**Q: As a human being who has contributed so much to ornithological work, we'd be interested to know the influences other ornithologists might have had on you. How have they helped you evolve into the ornithologist you are today?**
+
+My great advantage was beginning at the Bombay Natural History Society with Mr. Millard, who was the honorary secretary. He was the one to whom I took that sparrow for identification when I was about eight or nine years old. The amount of trouble he took over me—he was so taken aback at an Indian little boy being so interested in birds that he took special trouble. He said, "Why don't you make a small collection of your own? You bring it along here and we will show you what we have in our collection. You can compare, and we'll give you some books." That is how things started really.
+
+Later on, I was closely connected to the Natural History Society through my friend Pratap, who was then assistant curator. He was also very interested in birds, and we did a lot of birding around Bombay, collecting and studying.
+
+But my real scientific ornithology started when I went to Germany to take a special course in systematic ornithology. There my professor was Professor Stresemann, who was absolutely the giant of the world of ornithology at the time.
+
+**Q: As you mentioned earlier, Dr. Stresemann was responsible for making you look into the ways that birds live rather than the pure morphology and taxonomy of birds.**
+
+Yes. Also, Dr. Oscar Heinroth, who was there—he is really the father of ethology, that is bird behavior and ecology of birds. We must consider ourselves fortunate that individuals like this set you on this particular direction because you have contributed so much to the idea of bird study, not in terms of the weight and size of birds, but in the basic business of bird behavior.
+
+## Birds and Ecology
+
+**Q: What did these individuals do in their different countries? What were their areas of study, and how did they influence you?**
+
+In India, we only thought of taxonomy because that was considered the scientific part of ornithology. Watching birds in the open was thought to be just a pastime for the idle rich to kill time. No attention was paid to that. 
+
+What I learned in Germany and Europe generally was that more and more attention was being paid to ecology—to the way the bird, the habitats, what are the different factors in the habitat that are attractive to a certain species and not to others, what the connection between the habitat and the bird is. That is really my own interest in bird study—these interrelationships. Not just from one bird to another, but from birds to animals, reptiles, mammals, all the general ecology.
+
+Why some birds are so unevenly distributed, why they are present in one place and absent in another, why their place is replaced by some other species.
+
+## Hugh Whistler
+
+**Q: One name that comes to mind when one thinks of your early days is Hugh Whistler. He accompanied you?**
+
+No, Hugh Whistler was quite a senior ornithologist. By the time I had started, he had been in India for quite a number of years. He was in the police service and had made a very good study of the birds of the Punjab. In doing so, he had got a very good idea of the avifauna of the whole of the subcontinent.
+
+**Q: Some of the surveys that you had gone on with him—Travancore and Hyderabad?**
+
+I had not gone actually with him. But when I got the specimens, I kept the ecological and field notes, and the actual taxonomical work was done by him on the skins. I sent the skins to him and he compared them and identified them subspecifically. If there was anything new, he described the new subspecies.
+
+**Q: This is something that all of us are amazed at—the very meticulous way in which you've maintained these notes. Most naturalists who go out into the field have comparatively scrappy information. Your notes are almost like finished material. Who influenced you or taught you this specific, very critical aspect?**
+
+This is the aspect of my papers which I appreciate most in reviews—that I had broken away from the old tradition of just having the systematic list of birds, but gone in for more of their life history, their food, their behavior, their nesting habits, their geographical distribution. Anything to do with the living bird I was interested in, and not in dried museum skins.
+
+**Q: Were you perhaps following a model? Did you see somebody else do anything like this? Did Heinroth, Whistler, or Stresemann contribute to your methodology of making field notes?**
+
+Not all together. I did get a lot of clues from the way one should go about this, and then in the course of my work I naturally developed my own methods too.
+
+## More on Key Ornithologists
+
+**Q: Could you tell us more about Oscar Heinroth?**
+
+Oscar Heinroth and his wife—his wife was also really a wonderful person. They collected the eggs of all the birds found in Europe and brought them in and hatched them artificially in an incubator or under a pigeon or something. From the time the hatchling came out up to the time it became adult, they studied the life and the behavior and the food and the molts—the way it changes its plumage, at what stage it changes plumage. They photographed these birds at every stage and produced four beautiful volumes which are really the basis of bird behavior.
+
+**Q: And Hugh Whistler?**
+
+Hugh Whistler was really a policeman. He was so much involved in bird study that people said that Mr. Whistler in his spare time is a policeman.
+
+**Q: Dr. Stresemann has been your guru?**
+
+Yes. He was also a protégé of Ernst Hartert, who was really a giant among ornithologists. Stresemann was studying under him and was brought up in his career by Hartert, who was working at Tring in England with Lord Rothschild, who was also a very well-known zoologist and ornithologist.
+
+**Q: What was it that brought recognition to Dr. Stresemann?**
+
+He was a real observer. In taxonomy, in biogeography, and in all these things, he was a master. He has written some books which are absolutely the standard books now. He was also very keen on field study and was a very good taxonomist. He thought that this was really the work that needed to be done, and not only sitting in museums examining dried skins.
+
+## Biogeography
+
+**Q: Dr. Stresemann had a great interest in the geographical distribution of birds?**
+
+Yes, biogeography of birds. As a young man doing his postgraduate work, he worked in the East Indies islands, in the Moluccas and the neighboring islands, to see how these birds varied from island to island and tried to fix the factors which were responsible for it. He did some excellent work. That was also the case with Bernhard Rensch. They have produced some very erudite books and papers on geographical distribution of animals.
+
+**Q: There was a tea planter by the name of Charles English who in your early days of birding you had a lot of contact with?**
+
+In India, yes. He did a lot of work, but it was mostly collecting in unworked areas and collecting specimens of birds that were very rare. Many of them were described as new species. He was just a field man and wrote papers, but they were regional papers with word lists of certain areas like Bihar. He has done a lot of work in Bihar.
+
+**Q: Could you tell us something more about Bernhard Rensch?**
+
+Bernhard Rensch had just joined the Berlin Museum when I went there for my study. He was an expert in birds as well as in snails. They wanted to have him very much in the museum at the time, but they had no vacancy, so they appointed him in the snail department where he was just as proficient. He did exceedingly well there. When there was a vacancy in the ornithology section, he was transferred there. He was also one of the biogeographers and has done excellent work in the East Indies islands.
+
+**Q: Dr. Stresemann had another student while you were there—Ernst Mayr?**
+
+Yes. As a matter of fact, Mayr had been there a little before me because he had gone on his postdoctoral work to Papua and New Guinea and those places. He had just returned from there when I met him. Since then he has become very well known and perhaps one of the finest zoologists that we have living at this time.
+
+**Q: Do you still communicate with Mayr?**
+
+I was not particularly friendly with him because he was a man who knew that he was clever, and he made you feel that he knew that he was clever. Although Stresemann was his teacher, Stresemann was far more subtle. He had more humility and never tried to show off his knowledge. You didn't feel that with Mayr. He always did. So I was not really very friendly with him, but we had of course some contact.
+
+## Loke Wan Tho
+
+**Q: Loke Wan Tho—your friend, your very good friend with whom you've gone on so many expeditions.**
+
+He was the man on whom my influence was, in the same way as Stresemann's was on me. Mine was on Loke Wan Tho. During the war, he had to escape from Singapore when the Japanese got there. When he came to India, he was here just as a refugee. A common friend brought me in touch with him. I asked him what his interests were, and he said he was very keen on birds. I said, "Well, I am going on an expedition to Kutch in two days' time. Would you like to come?" He jumped at it and came along with me for several months. He developed into a first-class ornithologist. He was very keen on bird photography, and in the course of that, he did quite a lot of good work in Malaya when he went back.
+
+**Q: At this time while he was conducting his photography, you yourself were quite a good hand with the camera?**
+
+Yes, but I was not in any class. I was all right. But at the present time, animal photography has reached such a standard that I don't even want to admit that I am a photographer.
+
+**Q: Would it be right to say that Loke Wan Tho might have had some effect or influence on your photographic capabilities?**
+
+Absolutely. The meticulous attention he paid to details was the thing that I learned from him. That was the secret of why his photographs were so much better than mine. The archives of the Bombay Natural History Society are filled with the evidence of his work and yours. Photography is one of the finest ways to share your pleasures you've seen in the field with others, so we are grateful for that.
+
+## S. Dillon Ripley
+
+**Q: We have a giant in the field of ornithology today—Mr. S. Dillon Ripley. He's a man who you've worked very closely with for many years.**
+
+Yes. I came to know him during the war when he was just graduated from Yale or somewhere. He joined the army and was sent to Sri Lanka, to Ceylon. He had to report now and again to headquarters in Delhi, and in passing through, he always used to stop in Bombay for a day or so. We made our plans and discussed various things. That is how I came to know him.
+
+**Q: From some of the adventures that he relates, you've had some hair-raising experiences. He talks of drinking elephant milk at some time and eating tiger meat on other occasions.**
+
+Yes. We have worked together a lot. Our interest has been to find out how the bird life is changing with the changing of the environment. All our thrust has been on those lines. Wherever we have been, we have been there and then again repeated it after so many years and compared the conditions.
+
+**Q: The northeast of the country—you've covered quite well with him? You've been to Arunachal Pradesh and Bhutan?**
+
+Yes. There we made several trips. In Arunachal Pradesh, more or less pioneering work.
+
+**Q: In his capacity as secretary of the Smithsonian Institution and yours as president of the Bombay Natural History Society, you have through your personal relationships brought these two institutions together considerably in terms of cooperation and work.**
+
+I think this is quite true. Both our institutions have profited in that way. Both our institutions in this particular work could not have done without each other's help. For instance, I had great help in the financial field from the Smithsonian and from Ripley. Before that, he was a professor at Yale, and we had several expeditions together. 
+
+There are many places here in India where he himself would never have got permission to go—sensitive areas near the frontier and eastern frontier. In that way, the Natural History Society helped him get the permission to enter there. The Natural History Society itself again, by having these expeditions financed and getting part of the material collected for our collection—quite beneficial.
+
+**Q: There have been a number of books that you have co-authored with him. There must have been a lot of work involved. Was much of this work done here or elsewhere?**
+
+Ripley's strong point is taxonomy, and I am not really interested in taxonomy. Yet if you wanted to make a book thoroughly scientific, you would have to have absolutely reliable taxonomical material in it. So we divided up the work. He did the taxonomical part and I did the field and the ecological part. For that, he got me a fellowship at Yale so that I could go, and we could coordinate our work together and discuss and decide on the lines on which we were going to cooperate in that book. That is how we were able to get a smooth-running combination.
+
+**Q: From this relationship, which publications would you hold out as being at the apex of your statements?**
+
+Actually it is the Handbook because that's the most comprehensive book. But the writing of a book and the collecting material for that book—the one I enjoyed most is *The Birds of Kerala* because I had lived in Burma where I had seen similar evergreen and moist deciduous forests as in Travancore, but I never had opportunity of studying the birds in Burma very carefully. When I got the opportunity here in Travancore at that time, I really enjoyed it very much.
+
+**Q: Which year was this?**
+
+1932, '33. And 50 years later, the association goes strong. That's wonderful to hear. I wish all relationships grew like this.
+
+## Humayun Abdulali
+
+**Q: Humayun Abdulali—here's a man who you work with almost daily. He's another man who has been under your influence?**
+
+When he was a college student, he used to come and spend his holidays with me in camp in Travancore, in Hyderabad. That is where he himself admits he picked up the tricks of the trade. He again is a very detailed man in terms of morphology, a very keen and very discerning ornithologist, and very dedicated. He does some very good work.
+
+## Zoological Survey of India
+
+**Q: The Zoological Survey of India has thrown up a number of individuals who stand out particularly in terms of their ornithological work.**
+
+They have not been particularly strong in ornithological work because if the director is interested in, say, fishes, then he encourages that more than anything else. There has never been anyone who is particularly interested in ornithology. The man who has done really good work is Dr. Biswamoy Biswas, who did it more or less without much encouragement from the organization—in fact, a certain amount of discouragement. But he's done very well indeed and is one of our best systematic ornithologists at the present time.
+
+**Q: Did he help you?**
+
+Yes, there are many questions and many points on which I had to consult him.
+
+## Adventures in Burma and Afghanistan
+
+**Q: What about Mr. J.C. Hopwood? He was with you in Burma?**
+
+At that time it was the Imperial Forest Service, so he was in the forest service. He was the divisional forest officer of Dawwei, where I was the nester. I was quite a greenhorn at that time, just beginning my bird study career. In Burma I was absolutely lost because there was no help there, no books at the time. I discovered that Hopwood was a very keen bird student and was collecting birds and eggs for Stuart Baker when Baker was writing the second edition of the Fauna of British India series on birds. Hopwood was very cooperative and very helpful to me at that time because all that I knew about Burmese birds was from him. Unfortunately, he was then transferred, and I had to work on my own.
+
+**Q: You've had some adventures in Afghanistan with Colonel Meinertzhagen?**
+
+They were not really adventures, except that our trucks got overturned several times. But the great thing in Afghanistan was the bird migration. We got there just at the right time when the birds were migrating. Seeing thousands and thousands of birds passing through was something worthwhile. Afghanistan is on the flyway of so many migrating birds.
+
+**Q: One subject that comes up in your association with the colonel is the effect of sunlight on the coloration of birds.**
+
+Yes. His line of work was just after my own heart, so we got on together very well with the work because we both had the same interest. He had made a special study of the effect of light on the desert coloration of animals. 
+
+It is the same with the larks. If you collect the soil, the ground, and compare it with the birds collected on that soil, you will find that there is a very great resemblance to the color of the soil in the bird. The same species occurring in a different area where the soil is yellow or grayish or some other color—you'll find that the birds living on it are also of that color. It's quite remarkable.
+
+So many different people with so many different specializations have contributed to your evolution as an ornithologist. I think I had a wonderful opportunity of meeting these people and working with them. There is usually such good camaraderie among ornithologists that it is really very refreshing to work. When you go to a new country and you are quite a stranger there, if you find somebody who is an ornithologist, he will immediately take you under his wing and make you at home. That is one of the things I have found in ornithology.
+
+**Q: That's wonderful to hear. I wish this were true of specialists in most other fields. One keeps hearing of professional jealousies and insecurities and ego problems coming in the way of constructive work.**
+
+Yes, it's really very wonderful.
+
+## David Lack
+
+**Q: Dr. David Lack, who was the director of the Edward Grey Institute of Field Ornithology at Oxford—you've had contact with him?**
+
+He was a great friend of mine, a very high-class ornithologist. He and his wife made a special study of the swift living in a tower in Oxford, living in a hole in a tower in the Oxford Museum which is a hundred feet high. He and his wife used to go up and down every day and sit there for hours watching it. He has written a very good book called *Swifts in a Tower*. 
+
+When I read that book and saw the work that they had done, and when I was in Oxford, I said I would like to see these nests. He tried to dissuade me very much because he said this is too high and too steep. I boasted like anything. I said, "We are used to that kind of thing in India and I don't mind. I will climb up." He said, "Well, I have warned you."
+
+Then he took me there. It was a straight ladder with a little bit of platform at one place, then the ladder continued. It was so vertically steep that the sight of it was not very pleasing. But I had boasted so much that I would like to go up that I said I must now do this. When I got up halfway and looked down about 50 feet—the ladder had no railing, you had to catch hold of the rungs and go up like that, it was an iron ladder—when I looked down, my heart sank. If I was alone, I would have backed out. But he was looking at me from underneath, so I said, "Now I can't back out." So I had to grit my teeth and do it. But I marveled to learn that they were doing it three or four times every day.
+
+**Q: Your first doctorate student—was Dr. David Lack the reference?**
+
+Yes. When I found great difficulty in getting a proper systematic ornithological education here, and that is why I had to go to Germany, when I came back I was feeling that our university should have some facilities. Even if it's one student in a hundred who's really interested, he should be given the opportunity. 
+
+I got the University to recognize the Bombay Natural History Society as an ornithological research institution for MSc and PhD degrees. When I got my first student for MSc, that was a man called Ambedkar who is now employed at the Natural History Society. He did a very good job on the weaver bird. I was directing his work, but I didn't know if I was directing him on the right lines. I wanted to make sure myself.
+
+So I got the University, as a special case, to appoint Dr. Lack as the outside examiner. Usually for MSc they don't go to foreign examiners. But in this case, it was really a test for myself. We got a very good report from Dr. Lack. He said this is equal to any of these British universities' standards. It was very encouraging to me.
+
+## International Crane Foundation
+
+**Q: The people who seem to have influenced your life extend to all corners of the globe. What about the current situation today? There are organizations like the Crane Foundation led by George Archibald. What are your associations with them?**
+
+We are always in touch. Their chief thing is to breed birds that are getting scarce, at the point of extinction, and try and reintroduce them in the wild. The Crane Foundation does that especially with the 15 or so species of cranes found in the world. They're very keen on the black-necked crane, which is getting quite rare. As far as we know, we know nothing about what the status is in China, but the only part where it breeds within Indian limits is Ladakh.
+
+They want very much to take some eggs and try and breed the birds there. But we have made them a counter-offer that they should bring their staff to Leh and try to rear these, to incubate the eggs and teach some of our people also the techniques of captive breeding. They have agreed to do that now. We are waiting to see how it works.
 
 ## Modern Technology in Ornithology
 
-**Q: How do you view the increasing use of technology in ornithology—radar tracking, satellite tracking, computerization?**
+**Q: Most of the ornithological work that you've done has been done in a tradition of a man trying to understand nature. Today, evidence of high technology into the study of ornithology has become very evident—computerization, satellite tracking of migrations. Are there any individuals or institutions with whom you've worked who have led you towards this trend?**
 
-A: I have not had personal contacts with this work. The general trend I find nowadays is too mathematical and too mechanical so that one loses the interest in the bird itself. You get very clever mathematical solutions to various things, but I'm afraid that sort of ornithology is too modern for us who have grown up in the old tradition.
+I have not had any personal contacts with the work that is being done, for instance, in the study of migration by radar and other sophisticated means. The general trend I find nowadays is too mathematical and too mechanical, so that one loses the interest in the bird itself. You get a very clever mathematical solution to various things, but that sort of ornithology, I'm afraid, is too modern for us who have grown up in the old tradition and who really enjoyed ornithology because of its contact with birds.
 
-There are now so many projects that can be solved without interference of birds at all. You can get quantitative data on certain aspects of bird life without much study of the bird itself. That type of ornithology is too advanced for us old-style workers who are interested really in the living bird in its natural habitat. I don't try very hard to keep up now, but I have enjoyed my work with living birds.
+It has come to such a pass now that there are many projects or problems which can be solved without the interference of birds at all. You can get quantitative data on certain aspects of bird life without having much study to do of the bird itself. That type of ornithology is too advanced for us old-style workers who are interested really in the living bird in its natural habitat. 
 
-## Young Ornithologists and Future of Conservation
+I am not much in touch with any of the actual workers now. Of course, I read the papers in these ornithological journals, and that is what gives me the impression that this is not the type of work that I myself would prefer. I feel that I have enjoyed my work, and I don't enjoy this type of work. I don't try very hard to keep it up now.
 
-**Q: What about the young ornithologists working in India today?**
+## Peter Scott
 
-A: We have got a lot of very promising material. The few young men working with the Bombay Natural History Society in our various projects are absolutely first-class people. Not only do we think so in India, but we have sent them to various international conferences and have got very flattering reports. It is only opportunity that is wanted. There's no reason why our young people should not be as proficient in ornithology as anywhere else, provided they have the opportunity.
+**Q: There's a naturalist of high standing with whom you have had an association—Peter Scott. Could you tell us about him?**
 
-Mr. Zafar Futeh, who is now in Bangalore, is also one of my trainees. Though he is not a scientist, he is very much interested in birds. It is creditable to him that he has kept up the bird watchers newsletter which he started about 20 years ago. It's still going on quite well and has created a lot of interest among lay amateur bird watchers.
+I've been very friendly with Peter Scott since 1950 when we have been on various ornithological congresses together. His is the type of work that I really appreciate because that is all to do with living birds. He's certainly an expert on waterfowl.
 
-## Meeting with Political and Historical Figures
+I'm glad that when he came to Bharatpur, he took so much interest and gave a lot of suggestions on how it could be improved. His saying that he has not seen as good a waterfowl sanctuary anywhere in the world means something because he has really seen most of the important ones in the world. He thinks that Bharatpur is a unique place, as indeed it is. It's a living laboratory for so many ornithologists to come.
 
-**Q: What was your meeting with Gandhi like?**
+## Young Indian Ornithologists
 
-A: The greatest thrill I got in meeting one of these great people is when I met Gandhiji. This was about 1915 when he had just returned from Africa. My brother was in the Indian Civil Service and was a collector in Gujarat. Gandhi was called as a witness in a sedition case. After the court got up, my brother brought him to the tent for tea. It was the only time I could have a sort of date with him. I found him an extraordinarily wonderful man because he had a fine sense of humor, which is very much lacking in most politicians. He was one of those who had the real British character of being able to laugh at themselves, which is a very rare thing.
+**Q: What about the young men you see around you today in India? Can any come to mind who you think might lead ornithology forward?**
 
-**Q: What about Jawaharlal Nehru?**
+I think that we have got a lot of very promising material. For instance, the few young men who are working with the Bombay Natural History Society in our various projects—I think they are absolutely first-class people. It is not only that I think so or we think so in India, but we have sent them to various international conferences, and we have got very flattering reports.
 
-A: I used to live in Dehradun when he was imprisoned in Dehradun jail. My landlord was the jail superintendent who used to bring me messages from Nehru saying he would like to have a chat on birds. I used to go and spend time with him and talk about birds. He requested a copy of the book of Indian birds because he wanted to present it to his daughter and wanted my autograph. Mrs. Gandhi still has that book and says she got her first interest in birds from this book. That's remarkable.
+I think that it is only opportunity that is wanted. There is no reason why our young people should not be as proficient in ornithology as anywhere else, provided they have the opportunity. Of course, jobs are few. Amateurs can do a certain amount of work, but unless one is able to devote all one's time to a study, it is really difficult to achieve anything of outstanding importance.
 
-**Q: Did you meet Morarji Desai?**
+**Q: Mr. Zafar Futehally, who is now in Bangalore?**
 
-A: When Morarji Desai was Prime Minister, I saw him and told him about our work. He said the progress we've been making is like preaching to people already converted. He asked what we've done for the people actually suffering from wildlife ravages. He said we have cinema shows and lectures to people in cities who already know about conservation, but have you explained to a villager or forest dweller why they should preserve wildlife?
+He was also one of my trainees, and he got his early interest from me. He is very much interested—he's not a scientist, but he's very much interested in birds. It is very creditable to him that he has been able to keep up that Bird Watchers Newsletter which he started about 20 years ago, and it's still going on quite well. It has created a lot of interest among lay amateur bird watchers.
 
-He posed a scenario: if a villager's cow—his sole worldly possession that feeds his children on milk—is killed by a tiger, how do you convince him that there's a point in preserving the tiger? He said unless such people are convinced and on your side, you will never be able to save wildlife. This was a very wise thing to say.
+## Meeting Great People
 
-His point was that we talk in cities to people who already know the problem, but we haven't really tried to explain to ordinary people. To explain to them is really very difficult because they won't be prepared to listen to me. It's only somebody whom they respect in their own village, who talks their language and in the idioms they're used to—somebody whose advice they're prepared to follow. This is really the work of panchayat people and those in legislative councils in their constituency, but they're so busy with political wranglings that this gets passed by. 
+**Q: In the course of your ornithological work, you must have come in contact with several individuals of high stature in fields removed from ornithology—perhaps politics, business, heads of state, monarchs, actors and actresses, film stars. Could you mention some?**
 
-_It's most unfortunate because the truth is that conservation and social reform are two
-sides of the same coin particularly in a country like ours in india. It's evident to anybody who wishes to
-see that our people are as directly dependent on the land as the animals and birds are._ 
+I think the greatest thrill I got in meeting one of these great people is when I met Gandhiji. At that time he had not much of his Indian aura because he had just returned from Africa. This was about 1915 or so.
 
-*So this perhaps is one of the major contributions you've made because I think following your example there have been a host of a tribe of people who've gone out to understood the concepts and
-somewhat like a multiplier effect have communicated their understanding to others*
+My brother, one of my brothers, was in the Indian Civil Service. He was a collector in Godhra district and was on tour. He was the district magistrate also, so he had to try cases as he moved around. At one camp, there was a patel of a village who had been charged with sedition or something. This was in the time of British government in 1915.
 
-Yes
+Gandhi, who had just returned from Africa, was called there as a witness. He came and gave his evidence in that case in favor of the patel. After the court got up, my brother brought him along to the tent to give him a cup of tea, which really meant a cup of goat's milk which was kept ready for him, and some boiled groundnut sauce, whatever it was.
+
+That was the only time that I could have a sort of tête-à-tête with him, and I found him an extraordinarily wonderful man because he had a fine sense of humor, which is very much lacking in most politicians. In fact, he was one of those who had the real British character of being able to laugh at themselves, which I think is a very rare thing. That was the only time I had of talking fairly intimately with him and knowing him. He was not such a great man at that time, but still he had done a lot of work for the racial thing in Africa and was even then quite famous.
+
+**Q: And Jawaharlal Nehru?**
+
+I used to live in Dehradun at one time when he was living in the Dehradun jail. My landlord was the jail superintendent—he was an IMS man. He used to bring me messages from Nehru. He said, "I would like to have a chat on birds." I used to go and spend some time with him and talk about birds. He had his brother-in-law, Pandit, also imprisoned in the same place, so we all used to sit together and talk.
+
+Through my landlord, through the superintendent, he requested a copy of *The Book of Indian Birds* because he said he wanted to present it to his daughter, and he wanted my autograph. Mrs. Gandhi still has that book, and she says that she got her first interest in birds from this book.
+
+## Morarji Desai
+
+**Q: Other political leaders in India—for instance, Morarji Desai—have you had any contact with individuals like this?**
+
+Yes. When Morarji Desai was Prime Minister, I saw him and I told him that all the progress that we have been making so far is due to the support we have had from the top. I said, "How much support can we expect from you and your government?"
+
+He said he was very reasonable. He said, "We will certainly do whatever is possible to help." But he said, "What you have been doing so far is like preaching to the people who are already converted. For instance, you have cinema shows and lectures on conservation, and the audience already knows that there is such a problem as conservation. But what have you done for the people who are actually suffering from the ravages of wildlife? Have you tried to explain to them why it is necessary to preserve it? Unless you do that and unless you can get their support, no effort will be successful."
+
+He said, "Supposing there is a villager or a forest adivasi or whatever it is who has a cow which is his sole worldly possession, and that cow feeds his children on milk, and a tiger kills that cow—how can you convince him that there is some point in preserving the tiger after that? Have you tried that? Unless he is convinced and he is on your side, you will never be able to save it."
+
+Which is a very wise thing to say.
+
+**Q: Did you have a response to his question about how do you convince a villager?**
+
+He said, "This is what it is—you are talking in cities and towns to people who already know this problem, but have you tried to explain to those people?" To explain to those people is really a very difficult job because my going and trying to explain to him, he will not be prepared to listen to me. It is only somebody whom he respects in his own village, to whom he is prepared to listen, who thinks that his advice is worth following, somebody who talks his own language in the idioms that he is used to.
+
+We have not really done that. This is really the work of the panchayat people and of the people who are in the legislative council in their constituency. They should try and do this. But they're so busy with their political wranglings that this thing just gets passed by.
+
+**Q: It's most unfortunate because conservation and social reform are two sides of the same coin, particularly in a country like ours.**
+
+Yes, it's evident to anybody who wishes to see that our people are as directly dependent on the land as the animals and birds are. This perhaps is one of the major contributions you've made because following your example, there have been a host of people who've gone out, understood the concepts, and somewhat like a multiplier effect, have communicated their understanding to others.
 
 ---
 
