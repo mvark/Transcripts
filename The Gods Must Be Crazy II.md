@@ -1,5 +1,7 @@
 # **THE GODS MUST BE CRAZY II**
 
+Screenplay with scene headings, character names centered, parentheticals, and dialogue blocks via Kimi AI
+
 ---
 
 FADE IN:
